@@ -1,0 +1,13 @@
+
+l
+java:S1854"JRemove this useless assignment to local variable "productNamesByCategory".(Ðð‹Üûÿÿÿÿ8®àºŸÎ1
+G	java:S106"+Replace this use of System.out by a logger.(çŒý»8¯àºŸÎ1
+]
+java:S1481";Remove this unused "productNamesByCategory" local variable.(Ðð‹Üûÿÿÿÿ8¯àºŸÎ1
+X	java:S125"<This block of commented-out lines of code should be removed.(úØ£ð8¯àºŸÎ1
+L	java:S106"+Replace this use of System.out by a logger.(ãÿ¦„ûÿÿÿÿ8±àºŸÎ1
+L	java:S106 "+Replace this use of System.out by a logger.(Æõ©ìÿÿÿÿÿ8±àºŸÎ1
+G	java:S106!"+Replace this use of System.out by a logger.(íéÞ8±àºŸÎ1
+G	java:S106""+Replace this use of System.out by a logger.(èíÒè8±àºŸÎ1
+M
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×êŽ’8²àºŸÎ1

@@ -1,0 +1,14 @@
+
+6
+java:S3457"2nd argument is not used.(ú˜’Ã8ýË×ŸÎ1
+>
+java:S2111"!Use "BigDecimal.valueOf" instead.(Ý¸§á8ýË×ŸÎ1
+G	java:S106#"+Replace this use of System.out by a logger.(ßåŒ÷8þË×ŸÎ1
+F	java:S106$"+Replace this use of System.out by a logger.(ˆÞë^8ÿË×ŸÎ1
+v
+java:S4276'"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(Ûì…ôüÿÿÿÿ8ÿË×ŸÎ1
+L	java:S106)"+Replace this use of System.out by a logger.(¢Ü·êøÿÿÿÿ8ÿË×ŸÎ1
+L	java:S106+"+Replace this use of System.out by a logger.(Ò²ØŠþÿÿÿÿ8€Ì×ŸÎ1
+s
+java:S4276/"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Šœ¼ì8ÿË×ŸÎ1
+L	java:S1063"+Replace this use of System.out by a logger.(¥ŽÍ­üÿÿÿÿ8òµˆ Î1

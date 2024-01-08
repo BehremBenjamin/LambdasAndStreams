@@ -1,0 +1,13 @@
+
+a
+java:S1854"?Remove this useless assignment to local variable "powersOfTwo".(º µÏüÿÿÿÿ8‹îœÎ1
+[
+java:S1854	"9Remove this useless assignment to local variable "uuids".(ëÜ‰ğÿÿÿÿÿ8Ÿ‹îœÎ1
+L
+java:S1481	"*Remove this unused "uuids" local variable.(ëÜ‰ğÿÿÿÿÿ8Ÿ‹îœÎ1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(Â¿ùıÿÿÿÿ8 ‹îœÎ1
+R
+java:S1481"0Remove this unused "powersOfTwo" local variable.(º µÏüÿÿÿÿ8 ‹îœÎ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ıùÛÎùÿÿÿÿ8 ‹îœÎ1
+L	java:S106"+Replace this use of System.out by a logger.(«°Úşÿÿÿÿ8¡‹îœÎ1

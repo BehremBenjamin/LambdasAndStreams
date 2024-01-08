@@ -1,0 +1,12 @@
+
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(³´„8ŠŸÎ1
+Y
+java:S1854"<Remove this useless assignment to local variable "allCost1".(³´„8ŠŸÎ1
+^
+java:S1612"<Replace this lambda with method reference 'BigDecimal::add'.(½ü¼®ùÿÿÿÿ8ŠŸÎ1
+G	java:S106"+Replace this use of System.out by a logger.(ôşõ‘8‘ŠŸÎ1
+G	java:S106"+Replace this use of System.out by a logger.(¿ß÷Ù8‘ŠŸÎ1
+J
+java:S1481"-Remove this unused "allCost1" local variable.(³´„8‘ŠŸÎ1
+L	java:S106"+Replace this use of System.out by a logger.(üå§õûÿÿÿÿ8‘ŠŸÎ1
